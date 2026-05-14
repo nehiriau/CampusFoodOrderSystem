@@ -42,8 +42,3 @@ The program will display the order details, the delivery fee retrieved from the 
 
 
 ```
-
-
-**Riv, şimdi tek hamle:** Bu yukarıdaki metni kopyala, GitHub'daki README'ye yapıştır ve yeşil butona bas. GitHub işin tamamen bitmiş olacak! 🚀🍝
-
-```
