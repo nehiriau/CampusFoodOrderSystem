@@ -33,4 +33,4 @@ java -cp src Main
 
 The program will display the order details, the delivery fee retrieved from the config, and a confirmation message from the selected notification service.
 
-**Program Output Screenshot:**
+![Program Output](src/output.png)
